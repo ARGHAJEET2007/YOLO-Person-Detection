@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# YOLO model files
+*.pt
+*.onnx
+
+# Detection output files
+*.csv
+*.json
+
+# YOLO generated folders
+runs/
+
+# Virtual environments
+venv/
+yolo-env/
+.env
+
+# VS Code
+.vscode/
